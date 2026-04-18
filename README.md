@@ -1,31 +1,52 @@
 <h1 align="center">Hi 👋, I'm Kundan Vangapandu</h1>
-<h3 align="center">Data Science Student | ML Enthusiast</h3>
+<h3 align="center">Data Science Student | AI & ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+AI+Projects;Open+to+Opportunities&center=true&width=500&height=45">
+</p>
 
 ---
 
-🌱 I’m currently learning:
-- Python
-- Machine Learning
-- Deep Learning
-- Web3
-
-🚀 Projects:
-- DishVentory AI (Restaurant Prediction System)
-
-📫 Reach me:
-- Email: yourmail@gmail.com
+## 🚀 About Me
+- 🎓 2nd Year Data Science Student at GITAM University  
+- 🤖 Interested in AI, ML, and Data Science  
+- 🧠 Currently learning: Python, DSA, ML, DL  
+- 🚀 Working on: **Emotional Feedback**  
+- 🌱 Always exploring new technologies  
 
 ---
 
-### 📊 GitHub Stats
-![Kundan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangapandukundan&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode"/>
+</p>
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vangapandukundan&theme=radical)
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vangapandukundan&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vangapandukundan&theme=tokyonight" />
+</p>
 
 ---
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vangapandukundan&layout=compact&theme=radical)
+## 💻 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangapandukundan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Project
+### 🍽️ DishVentory AI
+> Intelligent restaurant system that predicts trending dishes and optimizes inventory.
+
+---
+
+## 🌐 Connect With Me
+<p>
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
