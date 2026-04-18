@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year Data Science Student at GITAM University  
+- 🎓 3rd Year Data Science Student at GITAM University  
 - 🤖 Interested in AI, ML, and Data Science  
 - 🧠 Currently learning: Python, DSA, ML, DL  
 - 🚀 Working on: **Emotional Feedback**  
@@ -39,14 +39,14 @@
 ---
 
 ## 🚀 Featured Project
-### 🍽️ DishVentory AI
+### 🍽️ Campus Authentication
 > Intelligent restaurant system that predicts trending dishes and optimizes inventory.
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/kundan-vangapandu/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
