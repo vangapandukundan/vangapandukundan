@@ -16,7 +16,7 @@
 ## 🧠 About Me
 - 🎓 Data Science Student @ GITAM University  
 - 🤖 Passionate about AI, ML & Data Analytics  
-- 🚀 Currently building: **DishVentory AI**  
+- 🚀 Currently building: **Emotional Feedback Tracker**  
 - 📚 Learning: DSA | Deep Learning | Web3  
 - 🎯 Goal: Become a top AI Engineer  
 
@@ -45,8 +45,8 @@
 ---
 
 ## 🚀 Featured Project
-### 🍽️ DishVentory AI
-> AI-based system that predicts trending dishes & optimizes inventory for restaurants.
+### 🍽️ Campus Authentication 
+> To make the login portals in university much better thann random captcha functions.
 
 ---
 
@@ -59,10 +59,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/kundan-vangapandu/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:vangapandukundan@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
