@@ -17,7 +17,7 @@
 - 🎓 Data Science Student @ GITAM University  
 - 🤖 Passionate about AI, ML & Data Analytics  
 - 🚀 Currently building: **Emotional Feedback Tracker**  
-- 📚 Learning: DSA | Deep Learning | Web3  
+- 📚 Learning: DSA | Deep Learning | Machine Learning  
 - 🎯 Goal: Become a top AI Engineer  
 
 ---
