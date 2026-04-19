@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=Kundan%20Vangapandu&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
   
-  <h3>🚀 Data Scientist | AI & ML Specialist | Cybersecurity Enthusiast</h3>
+  <h3>🚀 Data Scientist | AI & ML Specialist </h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Architecting+Deep+Learning+Models;Building+FIDO2+Passwordless+Auth;Designing+GANs+%26+Autoencoders;Optimizing+Data+with+R+%26+Python" alt="Typing SVG" />
 </div>
@@ -19,7 +19,6 @@
 
 I am a Data Science scholar driven by the intersection of advanced machine learning, predictive modeling, and secure systems architecture. My expertise spans building complex neural networks (GANs, Autoencoders) to developing robust, passwordless authentication systems. 
 
-🏆 **Recent Milestone:** National Finalist in Data Analytics Hackathon
 
 ---
 
@@ -46,27 +45,9 @@ I am a Data Science scholar driven by the intersection of advanced machine learn
   **Architecture & Security** <br>
   <img src="https://img.shields.io/badge/WebAuthn%20/%20FIDO2-000000?style=flat-square&logo=fidoalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_API-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
----
-
-## 🚀 Featured Engineering Projects
-
-### 👁️ Live Emotional Feedback Tracker
-> **Real-time facial expression recognition system.** Engineered utilizing **OpenCV** and custom **Neural Networks** to process live video feeds, providing instantaneous emotional state classifications to optimize user feedback loops.
-
-### 🔐 Campus-Auth
-> **Biometric passwordless authentication architecture.** Designed specifically for university environments, this system eliminates captcha vulnerabilities by implementing strict **FIDO2** and **WebAuthn** standards for highly secure, frictionless logins.
-
-### 🌱 Green Computing Data Center
-> **Energy consumption forecasting model.** Built a **Random Forest Regressor** to analyze and predict server workload data, optimizing energy distribution and significantly reducing the carbon footprint of data center operations.
-
-### 🤖 AI-Powered Code Review Assistant
-> **Automated code quality analysis tool.** Developed a backend utilizing **Flask** integrated with the **Git API** to automatically ingest commits, run quality checks, and provide immediate developer feedback.
-
----
 
 ## 📊 GitHub Analytics Dashboard
 
