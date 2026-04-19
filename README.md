@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Executive Summary
+## 🧠 Summary
 
 I am a Data Science scholar driven by the intersection of advanced machine learning, predictive modeling, and secure systems architecture. My expertise spans building complex neural networks (GANs, Autoencoders) to developing robust, passwordless authentication systems. 
 
