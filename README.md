@@ -65,7 +65,6 @@ I am a Data Science scholar driven by the intersection of advanced machine learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangapandukundan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=100&section=footer"/>
