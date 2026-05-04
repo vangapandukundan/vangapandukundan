@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110">
+  <rect width="900" height="110" fill="#0d1117"/>
+
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#FF006E"/>
+      <stop offset="48%"  stop-color="#BF5FFF"/>
+      <stop offset="100%" stop-color="#06FFB4"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#FF006E" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#FF006E"/>
+      <stop offset="75%"  stop-color="#06FFB4"/>
+      <stop offset="100%" stop-color="#06FFB4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main name -->
+  <text
+    x="450" y="62"
+    text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="50"
+    font-weight="700"
+    letter-spacing="1"
+    fill="url(#nameGrad)">Kundan Vangapandu</text>
+
+  <!-- Gradient accent line -->
+  <rect x="180" y="74" width="540" height="2" rx="1" fill="url(#lineGrad)"/>
+
+  <!-- Subtitle -->
+  <text
+    x="450" y="97"
+    text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    letter-spacing="5"
+    fill="#8b949e">AI ENGINEER · Data Scientist </text>
+</svg>
