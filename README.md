@@ -38,7 +38,7 @@
 
 <br/>
 
-### Threat Detection AI· &nbsp;·&nbsp; [Live ↗](https://threat-detection-ai-sfmyghe6azj9pr29x8yaon.streamlit.app/)
+### Threat Detection AI &nbsp;·&nbsp; [Live ↗](https://threat-detection-ai-sfmyghe6azj9pr29x8yaon.streamlit.app/)
 > A machine learning pipeline that classifies cybersecurity threats from network traffic data.
 
 `Python` &nbsp;`Scikit-learn`&nbsp; `Pandas`&nbsp; `Streamlit`&nbsp;
@@ -47,7 +47,7 @@
 
 ---
 
-### 🧠 AI Code Reviewer. &nbsp;·&nbsp; [Live ↗](https://jgmqxoaptndlsravfmjpxg.streamlit.app/)
+### 🧠 AI Code Reviewer &nbsp;·&nbsp; [Live ↗](https://jgmqxoaptndlsravfmjpxg.streamlit.app/)
 > Automated code quality analysis tool integrating Flake8 static analysis with AI-powered insights.
 
 `Python`&nbsp; `Streamlit`&nbsp; `flake8`&nbsp;
@@ -56,15 +56,17 @@
 
 ---
 
-## 😊 Emotional Feedback Tracker . 
+## 😊 Emotional Feedback Tracker. 
 > Tracks and analyzes emotional feedback using AI, providing insights into user sentiment.
+
 `Python` &nbsp;`TensorFlow`&nbsp; `Flask`&nbsp;
 
 ---
 
-## 🌿Green Quantum Data Center. &nbsp;·&nbsp; [Live ↗](https://drive.google.com/file/d/1uCF0VY8LsP0wmKbDTpkY_0W8fSxreqNN/view)
+## 🌿Green Quantum Data Center &nbsp;·&nbsp; [Live ↗](https://drive.google.com/file/d/1uCF0VY8LsP0wmKbDTpkY_0W8fSxreqNN/view)
 > An advanced Machine Learning platform that optimizes data center energy consumption and emissions.
-`Python`&nbsp;&nbsp; `Pandas`&nbsp; `Scikit-learn `&nbsp;
+
+`Python` &nbsp;`Pandas`&nbsp; `Scikit-learn`&nbsp;
 ---
 # 🛠️ Tech Arsenal
 
