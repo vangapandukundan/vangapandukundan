@@ -67,6 +67,7 @@
 > An advanced Machine Learning platform that optimizes data center energy consumption and emissions.
 
 `Python` &nbsp;`Pandas`&nbsp; `Scikit-learn`&nbsp;
+
 ---
 # 🛠️ Tech Arsenal
 
