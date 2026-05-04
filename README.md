@@ -24,6 +24,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║  🎯  Seeking Internships · SDE Roles · AI/ML Positions  ║
 ╚══════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -152,4 +153,4 @@ open to internships · AI · ML · Data Science roles
 <br/>
 
 <!-- 🔥 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06FFB4,50:8338EC,100:FF006E&height=120&section=footer&animation=fadeIn" width="100%"/>
