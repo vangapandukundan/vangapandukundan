@@ -34,28 +34,37 @@
 
 
 
-# 🌌 Featured Projects
+## 🌌 Featured Projects
 
 <br/>
 
-## 🍽️ DishVentory AI · [Coming Soon]
-> AI-powered restaurant system that predicts trending dishes & optimizes inventory.
+## Threat Detection AI · [https://threat-detection-ai-sfmyghe6azj9pr29x8yaon.streamlit.app/]
+> A machine learning pipeline that classifies cybersecurity threats from network traffic data.
 
-`Python` `Machine Learning` `AI`
+`Python` `Scikit-learn` `Pandas` `Streamlit`
 
-🔥 Smart predictions · 📊 Inventory optimization · 🚀 Real-world use case
-
----
-
-## 🧠 DSA Practice
-> Structured problem-solving with focus on algorithms and data structures.
-
-`Java` `DSA`
-
-📈 Daily practice · 🎯 Interview prep · ⚡ Strong fundamentals
+🔥 Smart predictions · 📊 Inventory optimization · 🚀 Threat Detection
 
 ---
 
+## 🧠 AI Code Reviewer . [https://jgmqxoaptndlsravfmjpxg.streamlit.app/]
+> Automated code quality analysis tool integrating Flake8 static analysis with AI-powered insights.
+`Python` `Streamlit` `flake8`
+
+📈 Code Review · 🎯 Only Python code · ⚡ Strong fundamentals
+
+---
+
+## 😊 Emotional Feedback Tracker . 
+> Tracks and analyzes emotional feedback using AI, providing insights into user sentiment.
+`Python` `TensorFlow` `Flask`
+
+---
+
+## 🌿Green Quantum Data Center . [https://drive.google.com/file/d/1uCF0VY8LsP0wmKbDTpkY_0W8fSxreqNN/view]
+> An advanced Machine Learning platform that optimizes data center energy consumption and emissions.
+`Python` `Pandas` `Scikit-learn `
+---
 # 🛠️ Tech Arsenal
 
 <div align="center">
