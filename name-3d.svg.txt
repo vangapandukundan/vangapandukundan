@@ -1,0 +1,39 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Define the smooth linear gradient from Hot Pink to Purple to Teal -->
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2B7F" /> <!-- Vibrant Pink -->
+      <stop offset="50%" stop-color="#7D04E8" /> <!-- Vibrant Purple -->
+      <stop offset="100%" stop-color="#2EDEF2" /> <!-- Vibrant Teal/Cyan -->
+    </linearGradient>
+
+    <!-- Define the subtle drop-shadow for the 3D effect -->
+    <filter id="shadowEffect" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="3" stdDeviation="0.5" flood-color="black" flood-opacity="0.5"/>
+    </filter>
+
+    <!-- Define the typography styles for clean display -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;400&amp;display=swap');
+      .name-text {
+        font-family: 'Inter', sans-serif;
+        font-weight: 700;
+        font-size: 38px;
+        text-anchor: middle;
+      }
+      .title-text {
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        text-anchor: middle;
+        fill: #666666; /* Small grey subtitle */
+      }
+    </style>
+  </defs>
+
+  <!-- Place the main name text "Kundan Vangapandu" -->
+  <text x="300" y="70" class="name-text" fill="url(#nameGradient)" filter="url(#shadowEffect)">Kundan Vangapandu</text>
+
+  <!-- Place the secondary subtitle text -->
+  <text x="300" y="110" class="title-text">AI ENGINEER - FULL-STACK DEVELOPER</text>
+</svg>
