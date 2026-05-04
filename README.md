@@ -96,7 +96,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vangapandukundan/vangapandukundan/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/vangapandukundan/vangapandukundan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/vangapandukundan/vangapandukundan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -107,8 +107,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangapandukundan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangapandukundan&theme=react-dark&bg_color=0d1117&color=06FFB4&line=FF006E&point=8338EC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
@@ -127,16 +126,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINK)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOURMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kundan-vangapandu/)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vangapandukundan@gmail.com)
 
 <br/>
 
 ```
 open to internships · AI · ML · Data Science roles
 ```
-
-
 
 </div>
 
