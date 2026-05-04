@@ -1,21 +1,18 @@
-<!-- 🔥 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:06FFB4&height=160&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<!-- 🧑 NAME SVG (you can replace later with custom) -->
-<h1>Kundan Vangapandu</h1>
+<img src="./assets/name-3d.svg" width="100%" alt="KUNDAN VANGAPANDU - 3D"/>
 
 <br/>
 
-<!-- ⚡ TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+%26+ML+Enthusiast;Building+Smart+Systems;Future+AI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06FFB4&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Production+Apps;TypeScript+%7C+Python+%7C+LLMs+%7C+Next.js;B.Tech+CSE+(AI+%26+ML)+%40+GITAM" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vangapandukundan&color=00F7FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kratos0718&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-blue?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-06FFB4?style=for-the-badge&logoColor=black)
 
 </div>
 
