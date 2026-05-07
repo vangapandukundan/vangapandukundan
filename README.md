@@ -123,15 +123,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangapandukundan&theme=react-dark&bg_color=0d1117&color=06FFB4&line=FF006E&point=8338EC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
----
 
-# 🎮 Coding Vibes
-
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF2bGlwbG9kOHc0NDhtcGdxa3BsNjZmN2RwamtnbGZ1aTRiejVtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-
-</div>
 
 ---
 
