@@ -128,7 +128,6 @@
 # 🎮 Coding Vibes
 
 <div align="center">
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </div>
@@ -136,7 +135,6 @@
 ---
 
 # 🌐 Connect
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kundan-vangapandu/)
@@ -149,8 +147,6 @@ open to internships · AI · ML · Data Science roles
 ```
 
 </div>
-
 <br/>
-
 <!-- 🔥 FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06FFB4,50:8338EC,100:FF006E&height=120&section=footer&animation=fadeIn" width="100%"/>
