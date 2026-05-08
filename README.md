@@ -10,10 +10,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kratos0718&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vangapandukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vangapandukundan" /></p>
 &nbsp;
-![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-06FFB4?style=for-the-badge&logoColor=black)
 
+- 🔭 Building **Data Cleaning, Ai-Agent Integration, Next js and FastAPI**
+- 🌱 Currently exploring **LLM Agents,Data Analytics,GAN's and ML**
+- 💬 Ask me about **DS, Cloud, Python**
+- 📫 Reach me at **vangapandukundan@gmail.com**
+- 🌐 Portfolio: **[Portfolio Website](https://vangapandukundan.github.io/Portfolio/)**
+  
 </div>
 
 ---
@@ -21,9 +26,7 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  🎯  Seeking Internships · SDE Roles · AI/ML Positions  ║
-╚══════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -68,17 +71,43 @@
 `Python` &nbsp;`Pandas`&nbsp; `Scikit-learn`&nbsp;
 
 ---
-# 🛠️ Tech Arsenal
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" />
+![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+![AI/ML](https://img.shields.io/badge/AI%/ML-red?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Frontend&Backend](https://img.shields.io/badge/Frontend%20&%20Backend-purple?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) 
+
+
+
+
+
+
+
+
+
 
 <br/><br/>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge)
 
 </div>
