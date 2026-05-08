@@ -19,15 +19,9 @@
 - 📫 Reach me at **vangapandukundan@gmail.com**
 - 🌐 Portfolio: **[Portfolio Website](https://vangapandukundan.github.io/Portfolio/)**
   
-</div>
 
----
 
-<div align="center">
 
-```
-
-```
 
 </div>
 
@@ -73,9 +67,9 @@
 ---
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div align="left">
 
-![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge)
+**LANGUAGES**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -83,7 +77,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-![AI/ML](https://img.shields.io/badge/AI%/ML-red?style=for-the-badge)
+**AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -91,7 +85,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Frontend&Backend](https://img.shields.io/badge/Frontend%20&%20Backend-purple?style=for-the-badge)
+**Frontend&Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -100,15 +94,6 @@
 
 
 
-
-
-
-
-
-
-<br/><br/>
-
-![Data Science](https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge)
 
 </div>
 
