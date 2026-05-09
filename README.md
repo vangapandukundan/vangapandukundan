@@ -8,17 +8,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06FFB4&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Production+Apps;Python+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+AI+%7C+Web+Development;B.Tech+CSE+(DS)+%40+GITAM+University" alt="Typing SVG" />
 <br/>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vangapandukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vangapandukundan" /></p>
 &nbsp;
 
+
+
+## 🧠 My Focus Areas
 -  🔭 Building **Data Cleaning, Ai-Agent Integration, Next js and FastAPI**
 -  🌱 Currently exploring **LLM Agents,Data Analytics,GAN's and ML**
 -  💬 Ask me about **DS, Cloud, Python**
 -  📫 Reach me at **vangapandukundan@gmail.com**
 -  🌐 Portfolio: **[Portfolio Website](https://vangapandukundan.github.io/Portfolio/)**
   
-
 
 
 
@@ -94,6 +95,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vangapandukundan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangapandukundan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=vangapandukundan&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="kundan vangapandu's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
 </div>
 
 <div align="center">
@@ -102,37 +112,64 @@
 
 </div>
 
+
+
+
+<p align="center">
+  <a href="https://github.com/vangapandukundan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vangapandukundan&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ---
 
-# 🐍 Contribution Snake
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
----
 
 # 📈 Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangapandukundan&theme=react-dark&bg_color=0d1117&color=06FFB4&line=FF006E&point=8338EC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vangapandukundan&theme=dracula" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vangapandukundan&theme=dracula" />
+</p>
 </div>
+
+
+
 
 
 
 ---
 
-# 🌐 Connect
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kundan-vangapandu/)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vangapandukundan@gmail.com)
-
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kundan-vangapandu/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/9492250166">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vangapandukundan@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vangapandukundan.github.io/Portfolio/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 <br/>
-
 ```
-open to internships · AI · ML · Data Science roles
+open to internships · AI · ML · Data Science roles 
 ```
 
 </div>
