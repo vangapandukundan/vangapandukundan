@@ -52,7 +52,7 @@
 
 ---
 
-## 😊 Emotional Feedback Tracker. 
+## 😊 Emotional Feedback Tracker. [Live ↗](https://lumina-emotion-tracker.vercel.app/)
 > Tracks and analyzes emotional feedback using AI, providing insights into user sentiment.
 
 `Python` &nbsp;`TensorFlow`&nbsp; `Flask`&nbsp;
