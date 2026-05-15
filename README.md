@@ -11,9 +11,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vangapandukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vangapandukundan" /></p>
 &nbsp;
 
+<div align="left">
 
-
-## 🧠 My Focus Areas
+## 🧠 About me
 -  🔭 Building **Data Cleaning, Ai-Agent Integration, Next js and FastAPI**
 -  🌱 Currently exploring **LLM Agents,Data Analytics,GAN's and ML**
 -  💬 Ask me about **DS, Cloud, Python**
@@ -28,18 +28,16 @@
 
 ---
 
+<div align="left">
 
 
 ## 🌌 &nbsp;Featured Projects
-
-<br/>
 
 ### Threat Detection AI &nbsp;·&nbsp; [Live ↗](https://threat-detection-ai-sfmyghe6azj9pr29x8yaon.streamlit.app/)
 > A machine learning pipeline that classifies cybersecurity threats from network traffic data.
 
 `Python` &nbsp;`Scikit-learn`&nbsp; `Pandas`&nbsp; `Streamlit`&nbsp;
 
-🔥 Smart predictions · 📊 Inventory optimization · 🚀 Threat Detection
 
 ---
 
@@ -48,7 +46,6 @@
 
 `Python`&nbsp; `Streamlit`&nbsp; `flake8`&nbsp;
 
-📈 Code Review · 🎯 Only Python code · ⚡ Strong fundamentals
 
 ---
 
@@ -91,9 +88,6 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vangapandukundan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangapandukundan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 
 <p align="center">
