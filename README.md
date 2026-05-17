@@ -56,7 +56,7 @@
 
 ---
 
-## 🌿Green Quantum Data Center &nbsp;·&nbsp; [Live ↗](https://drive.google.com/file/d/1uCF0VY8LsP0wmKbDTpkY_0W8fSxreqNN/view)
+## 🌿Green Quantum Data Center &nbsp;·&nbsp; [Live ↗](https://green-dc-predictor.streamlit.app/)
 > An advanced Machine Learning platform that optimizes data center energy consumption and emissions.
 
 `Python` &nbsp;`Pandas`&nbsp; `Scikit-learn`&nbsp;
