@@ -22,7 +22,7 @@
 -  🌱 Currently exploring **LLM Agents,Data Analytics,GAN's and ML**
 -  💬 Ask me about **DS, Cloud, Python**
 -  📫 Reach me at **vangapandukundan@gmail.com**
--  🌐 Portfolio: **[Portfolio Website](https://vangapandukundan.github.io/Portfolio/)**
+-  🌐 Portfolio: **[Portfolio Website]([https://vangapandukundan.github.io/Portfolio/](https://portfolio-eight-henna-78.vercel.app/))**
   
 
 
@@ -161,7 +161,7 @@
   <a href="mailto:vangapandukundan@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vangapandukundan.github.io/Portfolio/">
+  <a href="https://portfolio-eight-henna-78.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
