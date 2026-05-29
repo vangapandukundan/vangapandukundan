@@ -22,7 +22,7 @@
 -  🌱 Currently exploring **LLM Agents,Data Analytics,GAN's and ML**
 -  💬 Ask me about **DS, Cloud, Python**
 -  📫 Reach me at **vangapandukundan@gmail.com**
--  🌐 Portfolio: **[Portfolio Website]([https://vangapandukundan.github.io/Portfolio/](https://portfolio-eight-henna-78.vercel.app/))**
+-  🌐 Portfolio: **[Portfolio Website](https://portfolio-eight-henna-78.vercel.app/)**
   
 
 
