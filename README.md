@@ -165,9 +165,7 @@
   </a>
 </p>
 <br/>
-```
-open to internships · AI · ML · Data Science roles 
-```
+
 
 </div>
 <br/>
