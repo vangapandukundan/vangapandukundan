@@ -128,23 +128,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-# 📈 Activity Graph
-
-<div align="center">
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vangapandukundan&theme=dracula" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vangapandukundan&theme=dracula" />
-</p>
-</div>
-
-
 
 
 
