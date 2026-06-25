@@ -4,6 +4,8 @@
 
 <img src="./assets/name-3d.svg" width="100%" alt="KUNDAN VANGAPANDU - 3D"/>
 
+
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06FFB4&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Production+Apps;Python+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+AI+%7C+Web+Development;B.Tech+CSE+(DS)+%40+GITAM+University" alt="Typing SVG" />
