@@ -12,10 +12,13 @@
 <br/>
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vangapandukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vangapandukundan" />
-&nbsp; </p>
-<p align="left"><img src="https://img.shields.io/github/followers/vangapandukundan?style=for-the-badge&logo=github" />
-</p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=vangapandukundan&style=for-the-badge&color=06FFB4)
+
+![](https://img.shields.io/github/followers/vangapandukundan?style=for-the-badge&logo=github&color=8338EC)
+
+</div>
 
 <div align="left">
 
@@ -93,8 +96,6 @@
 ---
 
 # 📊 GitHub Stats
-
-
 
 
 <p align="center">
